@@ -26,8 +26,8 @@ export const BIKES = {
 // Empat lawan AI sesuai GDD
 export const RIVALS = [
   {
-    id: "rasyid",
-    name: "Rasyid",
+    id: "kakang",
+    name: "Kakang",
     desc: "Cepat di lintasan lurus",
     color: 0xe53935,
     straight: 16.0,
